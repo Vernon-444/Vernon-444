@@ -1,4 +1,6 @@
 - 👋 Hi, My name is Brayden Vernon
+- 📖 Recent graduate of Holberton School - Tulsa
+- 👀 Looking for work in software development
 
 
 ## Technologies & Tools
