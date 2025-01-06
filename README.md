@@ -1,6 +1,6 @@
-- 👋 Hi, My name is Brayden Vernon
-- 📖 Graduate of Holberton School - Tulsa 12/2023
+- 👋 Hi, I'm Brayden Vernon
 - 🕸️ Web Developer @ University of Oklahoma
+- 📖 Graduate of Holberton School - Tulsa 12/2023
 
 
 ## Technologies & Tools
