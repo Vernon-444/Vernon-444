@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Brayden Vernon
-- 📖 Recent graduate of Holberton School - Tulsa
-- 👀 Looking for work in software development
+- 📖 Graduate of Holberton School - Tulsa 12/2023
+- 🕸️ Web Developer @ University of Oklahoma
 
 
 ## Technologies & Tools
@@ -26,7 +26,7 @@ public:
 
     void skills() {
         vector<string> languages = { "JavaScript", "TypeScript", "Next.js", "HTML/CSS", "C/C++", "Python", "SQL" };
-        vector<string> tools = { "VS Code", "Git", "Figma", "Firebase", "Shopify" };
+        vector<string> tools = { "VS Code", "Git", "Figma", "Docker", "Firebase", "Shopify", "WordPress" };
     }
 
     void education() {
@@ -38,7 +38,8 @@ public:
 
     void awards() {
         string LinkedInAssessment{ "HTML Skill Assessment Passed" };
-        string GuinnessWorldRecord{ "Expected Dec 2024" };
+        string GuinnessWorldRecord{ "Expected Dec 2025" };
+        string DiscGolfChampion{ "1st Place Midtown Throwdown - Tulsa 05/2024 }
     } 
 
     void links() {
@@ -71,13 +72,15 @@ A passion project involving my main hobby. Allows users to get accurate* calcula
 * UI Overhaul
 * Database Overhaul
 * New Formula for calculating ratings (this will allow the app to go from local to global)
+* GPS Functionality
+* Data Analytics & Uesr Feedback
 
 More updates to come as this project progresses.
 
 - - -
 
 ### Shopify - Next.js Storefront
-Learning how to use Shopify api's and development tools to make custom storefront pages for retailers. 
+Learning how to use Shopify's API and development tools to make custom storefront pages for retailers.
 
 #### What I'm Learning
 * Shopify API endpoints
@@ -102,6 +105,9 @@ to help, contact me through my webstie [here](https://braydenvernon.com/#contact
 ### 5th Place Game Making @ Heartland Gaming Expo (2016)
 High school experience where a few friends and I made a very basic Unity game where our game competed against competitors of all levels, including university teams from Tulsa University and Oklahoma State (Tulsa).
 Took 5th place in the Game Creator category with our basic horror genre game called "The Penitentiary" where the player was meant to run to shelter after being stranded in the woods and chased by a smoke monster.
+
+### 1st Place - Midtown Throwdown 05/2024
+Achieved first place in the MA2 division, and also getting an Ace (Hole in 1) on what was marked as a par 4. This league event had 8 players in my division and 3 rounds.
 
 
 ## Contact Me
